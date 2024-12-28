@@ -10,12 +10,6 @@ I've been learning to code for 2 years now and I found my passion in front-end p
 * ✉️  You can contact me at [gabipplinski@hotmail.com](mailto:gabipplinski@hotmail.com)
 * 🧠  I'm learning HTML5 and CSS3
 
-<div align="center">
-  <a href="https://www.github.com/gabrielaplinski" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/gabrielaplinski?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  </a>
-</div>
-
 <p align="center" style="display: inline_block">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
@@ -40,7 +34,7 @@ I've been learning to code for 2 years now and I found my passion in front-end p
 
 <b>My GitHub Stats</b>
 
-<div align="center" style="display: inline_block">
+<div align="center" width="32">
 <a href="http://www.github.com/gabrielaplinski">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielaplinski&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gabrielaplinski's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielaplinski&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
