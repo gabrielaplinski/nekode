@@ -11,12 +11,10 @@ I've been learning to code for 2 years now and I found my passion in front-end p
 * 🧠  I'm learning HTML5 and CSS3
 
 <div align="center">
-  <a href="https://www.github.com/gabrielaplinski" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/gabrielaplinski?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+  <a href="https://www.github.com/gabrielaplinski" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/gabrielaplinski?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a>
 </div>
-
-### Skills
-
 
 <p align="center" style="display: inline_block">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -37,11 +35,8 @@ src="https://img.shields.io/github/followers/gabrielaplinski?logo=github&style=f
 </p>
 
 
-### Socials
-
 <p align="center"> <a href="https://www.github.com/gabrielaplinski" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/gabrielaplinski" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gabrielaplinski" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
@@ -54,7 +49,6 @@ src="https://img.shields.io/github/followers/gabrielaplinski?logo=github&style=f
 </a>
 </div>
 
-### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
 
