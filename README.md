@@ -33,19 +33,25 @@ I've been learning to code for 2 years now and I found my passion in front-end p
 
 
 <b>My GitHub Stats</b>
-
+</br>
+</br>
 <div align="center">
 <a href="http://www.github.com/gabrielaplinski">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielaplinski&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gabrielaplinski's GitHub stats" width="350"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielaplinski&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="383"/>
 </a>
 </div>
+</br>
+</br>
+</br>
+</br>
 
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/gabrielaplinski"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
+<ul style="list-style-type: none; margin: 0; padding: 0;" align="right">
+  <li style="display: inline-block; list-style-type: none;">
+    <a href="https://www.buymeacoffee.com/gabrielaplinski">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="130"/>
+    </a>
+  </li>
 </ul>
 <!---
 gabrielaplinski/gabrielaplinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
